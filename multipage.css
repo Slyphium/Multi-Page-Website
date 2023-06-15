@@ -79,3 +79,7 @@ nav ul li {
     position: sticky;
     align-content: center;
 }
+.search-icon {
+    width: 10px;
+    height: 10px;
+}
