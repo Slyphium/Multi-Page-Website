@@ -71,8 +71,11 @@ body h1 {
 nav ul li {
     padding: 10 px
 }
-#logo {
-    background: url(cart-icon.png);
+#sitesearch {
     position: fixed;
-    display:inline-block
+    display:inline-block;
+    height: 10px;
+    width: 10px;
+    position: sticky;
+    align-content: center;
 }
