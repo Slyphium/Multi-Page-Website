@@ -77,9 +77,16 @@ nav ul li {
     height: 10px;
     width: 10px;
     position: sticky;
-    align-content: center;
+    align-content: left;
 }
 .search-icon {
-    width: 10px;
-    height: 10px;
+    width: 20px;
+    height: 20px;
+}
+.cart-icon {
+    position: fixed sticky;
+    align-content: center;
+    display: inline-block;
+    width: 20px;
+    length: 20px;
 }
